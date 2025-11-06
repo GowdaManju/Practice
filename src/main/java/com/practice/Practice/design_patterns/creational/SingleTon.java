@@ -1,4 +1,4 @@
-package com.practice.Practice.design_patterns;
+package com.practice.Practice.design_patterns.creational;
 
 /*
 SingleTon design pattern is a creational design pattern in which it will allow us to create only one instance instead of multiple objects

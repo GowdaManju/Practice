@@ -1,4 +1,4 @@
-package com.practice.Practice.design_patterns;
+package com.practice.Practice.design_patterns.creational;
 
 
 /*
